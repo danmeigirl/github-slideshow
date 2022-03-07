@@ -16,7 +16,7 @@ kramdown:
 plugins:
   - jemoji
 
-## personalize your slide show
+## personalize your njknl
 title:       github-slideshow
 author:      GitHubTeacher
 description: A fun activity for learning Git and GitHub.
